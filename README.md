@@ -1,5 +1,6 @@
 # ap_cm522_r
-To store R codes for CM522 (Investment ckass at YZU).
+
+To store R codes for CM522 (Investment class at YZU). Please download code from `code` folder.
 
 List of code practices:
 
